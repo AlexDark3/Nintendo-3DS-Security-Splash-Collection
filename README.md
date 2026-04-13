@@ -1,3 +1,4 @@
+
 # ⚠️ Nintendo 3DS Security Splash Collection
 
 Repositorio dedicado a la recopilación y creación de **splashes de seguridad personalizados** para Nintendo 3DS.
@@ -97,6 +98,9 @@ splash.bin
 * No incluyas contenido protegido sin permiso
 
 ---
+
+[Black New Nintendo 3DS XL Logo by AlexDark3 (101614).zip](https://github.com/user-attachments/files/26666564/Black.New.Nintendo.3DS.XL.Logo.by.AlexDark3.101614.zip)
+[White New Nintendo 3DS XL Logo by AlexDark3 (90935).zip](https://github.com/user-attachments/files/26666563/White.New.Nintendo.3DS.XL.Logo.by.AlexDark3.90935.zip)
 
 ## 📄 Licencia
 
