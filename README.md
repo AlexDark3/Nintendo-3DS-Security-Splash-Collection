@@ -100,6 +100,7 @@ splash.bin
 ---
 
 [Black New Nintendo 3DS XL Logo by AlexDark3 (101614).zip](https://github.com/user-attachments/files/26666564/Black.New.Nintendo.3DS.XL.Logo.by.AlexDark3.101614.zip)
+
 [White New Nintendo 3DS XL Logo by AlexDark3 (90935).zip](https://github.com/user-attachments/files/26666563/White.New.Nintendo.3DS.XL.Logo.by.AlexDark3.90935.zip)
 
 ## 📄 Licencia
